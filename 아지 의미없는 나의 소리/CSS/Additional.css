@@ -1,0 +1,29 @@
+/* CSS/Additional.css */
+
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.homeDiv {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 1em;
+    color: #444;
+    margin-bottom: 20px;
+    text-align: left;
+    line-height: 1.8;
+}
